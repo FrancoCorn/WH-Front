@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Where?Here!</string>
+    <string name="title_activity_main">Where?Here!</string>
+    <string name="package_name">ar.uba.fi.wherehere</string>
+    <string name="custom_url_scheme">ar.uba.fi.wherehere</string>
+</resources>

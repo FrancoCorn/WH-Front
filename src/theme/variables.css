@@ -1,0 +1,14 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+:root {
+    --statusbar-background: #ffffff;
+    --navigationbar-background: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --statusbar-background: #1f1f1f;
+        --navigationbar-background: #1f1f1f;
+    }
+}
